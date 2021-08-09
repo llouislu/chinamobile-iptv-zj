@@ -39,6 +39,9 @@ http://112.17.40.140/PLTV/88888888/224/3221226541/index.m3u8
 #EXTINF:-1 tvg-id="CCTV1gaoqing" group-title="CHINA MOBILE ZJ IPTV",CCTV1高清
 http://112.17.40.140/PLTV/88888888/224/3221226527/index.m3u8
 
+#EXTINF:-1 tvg-id="CCTV1 3M1080" group-title="CHINA MOBILE ZJ IPTV",CCTV1 3M1080
+http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+
 #EXTINF:-1 tvg-id="CCTV2" group-title="CHINA MOBILE ZJ IPTV",CCTV2
 http://112.17.40.140/PLTV/88888888/224/3221226593/index.m3u8
 
@@ -51,14 +54,26 @@ http://112.17.40.140/PLTV/88888888/224/3221226138/index.m3u8
 #EXTINF:-1 tvg-id="CCTV3gaoqing" group-title="CHINA MOBILE ZJ IPTV",CCTV3高清
 http://112.17.40.140/PLTV/88888888/224/3221226485/index.m3u8
 
+#EXTINF:-1 tvg-id="3M1080" group-title="CHINA MOBILE ZJ IPTV",3M1080
+http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
+
 #EXTINF:-1 tvg-id="CCTV3gaoqing" group-title="CHINA MOBILE ZJ IPTV",CCTV3高清
 http://112.17.40.140/PLTV/88888888/224/3221226431/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV3 3M1080" group-title="CHINA MOBILE ZJ IPTV",CCTV3 3M1080
+http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4" group-title="CHINA MOBILE ZJ IPTV",CCTV4
 http://112.17.40.140/PLTV/88888888/224/3221226732/index.m3u8
 
+#EXTINF:-1 tvg-id="CCTV4 3M1080" group-title="CHINA MOBILE ZJ IPTV",CCTV4 3M1080
+http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+
 #EXTINF:-1 tvg-id="CCTV4" group-title="CHINA MOBILE ZJ IPTV",CCTV4
 http://112.17.40.140/PLTV/88888888/224/3221226171/index.m3u8
+
+#EXTINF:-1 tvg-id="CCTV4 8M1080" group-title="CHINA MOBILE ZJ IPTV",CCTV4 8M1080
+http://hdtv.haust.edu.cn/hls/hls4.m3u8
 
 #EXTINF:-1 tvg-id="CCTV4Kchaogaoqing" group-title="CHINA MOBILE ZJ IPTV",CCTV4K超高清
 http://112.17.40.140/PLTV/88888888/224/3221226809/index.m3u8
