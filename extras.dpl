@@ -1,0 +1,10 @@
+13*file*http://hdtv.haust.edu.cn/hls/cctv1hd.m3u8
+13*title*CCTV1 3M1080
+17*file*http://hdtv.haust.edu.cn/hls/cctv2hd.m3u8
+17*title*CCTV2 3M1080
+18*file*http://hdtv.haust.edu.cn/hls/cctv3hd.m3u8
+18*title*CCTV3 3M1080
+19*file*http://hdtv.haust.edu.cn/hls/cctv4hd.m3u8
+19*title*CCTV4 3M1080
+20*file*http://hdtv.haust.edu.cn/hls/hls4.m3u8
+20*title*CCTV4 8M1080
